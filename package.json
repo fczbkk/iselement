@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fczbkk/bloat.git"
+    "url": "https://github.com/fczbkk/iselement.git"
   },
   "author": {
     "name": "Riki Fridrich",
@@ -14,9 +14,9 @@
     "url": "http://fczbkk.com/"
   },
   "bugs": {
-    "url": "https://github.com/fczbkk/bloat/issues"
+    "url": "https://github.com/fczbkk/iselement/issues"
   },
-  "homepage": "https://github.com/fczbkk/bloat#readme",
+  "homepage": "https://github.com/fczbkk/iselement#readme",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
