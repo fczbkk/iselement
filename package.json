@@ -1,7 +1,7 @@
 {
   "title": "Bloat",
   "name": "bloat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Javascript library for displaying large images from their thumbnails.",
   "license": "MIT",
   "repository": {
