@@ -1,6 +1,6 @@
 {
-  "title": "Bloat",
-  "name": "bloat",
+  "title": "isElement",
+  "name": "iselement",
   "version": "1.0.0",
   "description": "Javascript library for displaying large images from their thumbnails.",
   "license": "MIT",
