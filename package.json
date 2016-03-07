@@ -2,7 +2,7 @@
   "title": "isElement",
   "name": "iselement",
   "version": "1.0.0",
-  "description": "Javascript library for displaying large images from their thumbnails.",
+  "description": "Utility function that returns `true` if referenced object is DOM element.",
   "license": "MIT",
   "repository": {
     "type": "git",
