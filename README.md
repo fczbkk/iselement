@@ -6,16 +6,18 @@ Most similar functions just checks, if object is instance of `HTMLElement`. That
 
 ## How to use
 
-```
-import isElement from 'iselement';
+    import isElement from 'iselement';
 
-isElement(my_object);  // --> true/false
-```
+    isElement(my_object);  // --> true/false
 
-## Bug reports, feature requests and contact
+# Documentation
 
-If you found any bugs, if you have feature requests or any questions, please, either [file an issue at GitHub](https://github.com/fczbkk/is-element/issues) or send me an e-mail at [riki@fczbkk.com](mailto:riki@fczbkk.com).
+## isElement
 
-## License
+Returns `true` if provided input is Element.
 
-Element collector is published under the [MIT license](https://github.com/fczbkk/is-element/blob/master/LICENSE).
+**Parameters**
+
+-   `input` **\[Any]** 
+
+Returns **[boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)** 
