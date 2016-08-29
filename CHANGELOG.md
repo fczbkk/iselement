@@ -1,3 +1,13 @@
+<a name="1.1.3"></a>
+## [1.1.3](https://github.com/fczbkk/iselement/compare/v1.1.2...v1.1.3) (2016-08-29)
+
+
+### Bug Fixes
+
+* fixed publish workflow ([b8ca9a4](https://github.com/fczbkk/iselement/commit/b8ca9a4))
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/fczbkk/iselement/compare/v1.1.1...v1.1.2) (2016-08-28)
 
