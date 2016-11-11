@@ -7,7 +7,7 @@
 export default function (input) {
   return (input != null)
     && (typeof input === 'object')
-    && (input.nodeType === 1)
+    && (input.nodeType === Node.ELEMENT_NODE)
     && (typeof input.style === 'object')
     && (typeof input.ownerDocument === 'object');
 }
