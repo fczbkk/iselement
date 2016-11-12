@@ -2,13 +2,15 @@
 
 Utility function that returns `true` if referenced object is DOM element.
 
-Most similar functions just checks, if object is instance of `HTMLElement`. That does not always work, because it exotic elements like SVG polygons.
+Most similar functions just checks, if object is instance of `HTMLElement`. That does not always work, because of exotic elements like SVG polygons.
 
 ## How to use
 
-    import isElement from 'iselement';
+```javascript
+import isElement from 'iselement';
 
-    isElement(my_object);  // --> true/false
+isElement(my_object);  // --> true/false
+```
 
 # Documentation
 
