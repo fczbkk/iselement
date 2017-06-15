@@ -2,7 +2,7 @@
 
 Utility function that returns `true` if referenced object is DOM element.
 
-Most similar functions just checks, if object is instance of `HTMLElement`. That does not always work, because of exotic elements like SVG polygons.
+Most similar functions just check, if object is instance of `HTMLElement`. That does not always work, because of exotic elements like SVG polygons.
 
 ## How to use
 
